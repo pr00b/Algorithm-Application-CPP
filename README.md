@@ -1,1 +1,1 @@
-# ECE-318-Algorithms
+# Algorithm applications
